@@ -1,0 +1,12 @@
+/* -- reset styles -- */
+@import url('reset.css');
+/* -- common styles -- */
+@import url('common.css');
+/* -- header styles -- */
+@import url('header.css');
+/* -- footer styles -- */
+@import url('footer.css');
+/* -- homepage styles -- */
+@import url('homepage.css');
+/* -- articlepage styles -- */
+@import url('articlepage.css');
